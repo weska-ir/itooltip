@@ -7,7 +7,7 @@ A JavaScript tooltip library.
 <html>
   <head>
     <script type="text/javascript" src="/path/to/libs/jquery.min.js"></script>
-    <script type="text/javascript" src="'/path/to/libs/itooltip-1.0.min.js"></script>
+    <script type="text/javascript" src="'/path/to/libs/itooltip.min.js"></script>
   </head>
   <body>
     <button data-itooltip="Hello World">iTooltip Example</button>
